@@ -1,0 +1,15 @@
+aiohttp==3.11.14
+aiosqlite==0.21.0
+curl_cffi==0.10.0
+eth_account==0.11.3
+eth_typing==5.2.0
+fake_useragent==2.1.0
+hexbytes==0.3.1
+loguru==0.7.3
+pyfiglet==1.0.2
+python-dotenv==1.1.0
+Requests==2.32.3
+rich==13.9.4
+SQLAlchemy==2.0.40
+tenacity==9.0.0
+web3==6.15.1
