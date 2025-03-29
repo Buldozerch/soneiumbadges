@@ -1,6 +1,6 @@
-# Soneuim Badges Farmer
+# Soneium Badges Farmer
 
-Софт для фарма Badges на Soneuim
+Софт для фарма Badges на Soneium
 
 ## Главные особенности
 
@@ -9,8 +9,8 @@
 - Owlto Swaps (3+ swaps)
 - Owlto Multiple Swapper (0.005 ETH+ swaps)
 - Owlto Bridge (1 bridge to Soneuim Network)
-- Owlto Bridge Platinum (3 bridges to Soneuim Network)
-- Owlto Bridge Diamond (5 bridges to Soneuim Network)
+- Owlto Bridge Platinum (3 bridges to Soneium Network)
+- Owlto Bridge Diamond (5 bridges to Soneium Network)
 - Sonus (10 swaps, 5 locks)
 - QuickSwap (10 swaps)
 - Sonex (10 swaps)
@@ -63,7 +63,7 @@ python main.py
 
 ### Работа софта
 1. Запускает аккаунт и спит рандомное время
-2. Проверяет баланс в сети Soneuim, при 0 балансе совершает bridge через Owlto из доступных сетей
+2. Проверяет баланс в сети Soneium, при 0 балансе совершает bridge через Owlto из доступных сетей
 3. Проверяет количество совершенных транзакций на площадках
 4. Выстраивает рандомный маршрут
 5. Работает по маршруту выполняя транзакции
