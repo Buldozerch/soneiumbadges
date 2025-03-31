@@ -515,9 +515,9 @@ class SoneuimActivity(SoneuimProjects):
                 await asyncio.sleep(random_sleep)
 
     async def handle_account(self):
-        path = await self.random_path()
-        logger.info(f'{self.user} path for account: {path}')
         for _ in range(2):
+           path = await self.random_path()
+           logger.info(f'{self.user} path for account: {path}')
             for key, value in path.items():
                 try:
                     if key == 'owlto' and value > 0:
